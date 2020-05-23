@@ -1,0 +1,1 @@
+deno install --allow-read --allow-net https://deno.land/std/http/file_server.ts
